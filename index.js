@@ -6,8 +6,8 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  const ="cat"
-  return yourAnimal
+  const animal ="cat"
+  return animal
 }
 
 function add2(n) {
